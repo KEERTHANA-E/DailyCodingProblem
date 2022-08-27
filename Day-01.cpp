@@ -1,6 +1,6 @@
 /*
-leetCoode-https://leetcode.com/problems/two-sum/submissions/
-GOOGLE
+https://leetcode.com/problems/two-sum/submissions/
+GOOGLE-easy
 hashmap approach
 */
 class Solution
